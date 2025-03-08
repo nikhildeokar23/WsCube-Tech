@@ -1,0 +1,56 @@
+@media only screen and (min-width:200px) and (max-width:575px) {
+    .btn-outer {
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+        background-color: white;
+        left: 0px;
+        justify-content: center !important;
+    }
+}
+
+
+@media (max-width: 575px) {
+.bannerContent h1{
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 35px ;    
+}
+}
+
+@media (max-width: 575px) {
+.bannerContent p, .bannerContent ul li{
+    font-size: 16px;
+}
+}
+
+@media (max-width: 575px) {
+.bannerContentBtn{
+    flex-direction: column;
+}
+}
+
+
+@media (max-width: 575px) {
+.bannerContentBtn button{
+    width: 100%;
+}
+}
+
+@media (max-width: 575px) {    
+.bannerForm {
+    padding: 20px;
+} 
+}
+
+@media (max-width: 575px) {
+.highlights-section h2{
+    font-size: 28px;
+}
+}
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1170px;
+    }
+}
