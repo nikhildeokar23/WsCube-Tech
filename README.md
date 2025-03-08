@@ -2,7 +2,6 @@
 This project is a modern, responsive website for a Digital Marketing Course, built using HTML, CSS, Bootstrap, and JavaScript. It provides a user-friendly interface for students and professionals looking to enhance their marketing skills.
 
 <br/>
-<br/>
 
 🚀 Features:
 ✅ Fully Responsive – Optimized for mobile, tablet, and desktop.
@@ -11,13 +10,11 @@ This project is a modern, responsive website for a Digital Marketing Course, bui
 ✅ FAQ Sections – For commonly asked questions.
 
 <br/>
-<br/>
 
 🛠️ Technologies Used:
 HTML5, CSS3, Bootstrap for layout and styling.
 FontAwesome & Google Fonts for modern design elements.
 
-<br/>
 <br/>
 
 🔹 Contributions & suggestions are welcome! 🎯
